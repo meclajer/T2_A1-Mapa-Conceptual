@@ -1,0 +1,2 @@
+# T2_A1-Mapa-Conceptual
+Investigar las respuestas a las preguntas que se listan a continuación y posteriormente crear un MAPA CONCEPTUAL en alguna herramienta electrónica.  1.  ¿Qué es la EVALUACIÓN PEREZOSA?  2.  ¿Qué ventajas tiene la implementación de la evaluación perezosa?  3.  ¿Qué desventajas tiene la implementación de la evaluación perezosa?  4. Ejemplo de aplicación de programación con evaluación perezosa en Scala  5. ¿Qué son las funciones de alto orden?  6. ¿Qué son las MONADAS en programación funcional?  7. ¿Qué son los MONOIDES en programación funcional?
